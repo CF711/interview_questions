@@ -10,6 +10,7 @@ Reverse String:
 
 FizzBuzz:
 - Javascript
+- Python
 
 Matching Brackets:
 - Javascript
