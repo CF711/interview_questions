@@ -6,6 +6,7 @@ Will do most of them in both Javascript and Python. May add more languages later
 
 Reverse String:
 - Javascript
+- Python
 
 FizzBuzz:
 - Javascript
